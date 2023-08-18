@@ -1,26 +1,35 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <ContributionGraph></ContributionGraph>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+import ContributionGraph from './components/ContributionGraph.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
+    ContributionGraph,
   },
 };
 </script>
 
 <style lang="scss">
+button {
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Inter, serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
   text-align: center;
-  color: #2c3e50;
+
+  color: #959494;
   margin-top: 60px;
 }
 </style>
