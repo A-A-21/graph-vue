@@ -3,6 +3,7 @@
 
 ![Снимок экрана 2023-08-18 в 16 51 51](https://github.com/A-A-21/graph-vue/assets/93540398/75f1d1f1-f1ed-41c6-af6c-47df1ce94255)
 
+![Снимок экрана 2023-08-18 в 16 55 08](https://github.com/A-A-21/graph-vue/assets/93540398/3c93a21e-3ee0-4783-b6f7-a19a198f5d2b)
 
 ## Project setup
 ```
